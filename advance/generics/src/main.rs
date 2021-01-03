@@ -57,9 +57,9 @@ fn main() {
         name: "Muhammad Rehan",
         age: 20,
     };
-    let Rehan2 = MixupProgram{
-        name: " Rehan2",
-        age: 0,
+    let Shayan = MixupProgram{
+        name: "Shayan",
+        age: 18,
     };
     Rehan.mix(Rehan2);
 }
